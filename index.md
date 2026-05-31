@@ -4,7 +4,29 @@ Hi! 👋 My name is Nitya Lagadapati and I am a biomedical engineer passionate a
 
 ---
 # 🧬 Research
+<div style="text-align:center;">
+  <a href="/research/ViscoelasticHydrogels">
+    <img src="/assets/images/Hydrogel.png" width="300">
+  </a>
 
+  <h3>Viscoelastic Hydrogel Models of the Meniscus</h3>
+
+  <p>
+    Biomaterials • Mechanobiology • Tissue Engineering
+  </p>
+</div>
+
+<div style="text-align:center;">
+  <a href="/research/InfluenzaVaccine">
+    <img src="/assets/images/CVAE.png" width="300">
+  </a>
+
+  <h3>Influenza Vaccine Platform</h3>
+
+  <p>
+    Immunoengineering • Immunomodulatory Biomaterials
+  </p>
+</div>
 
 # 🧪 Biopharmaceutical Industry 
 
