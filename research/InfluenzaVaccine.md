@@ -1,4 +1,4 @@
 ---
 title: Influenza Vaccine
-permalink: /research/Influenza Vaccine/
+permalink: /research/InfluenzaVaccine/
 ---
