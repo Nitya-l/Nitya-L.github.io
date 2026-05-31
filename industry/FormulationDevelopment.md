@@ -1,4 +1,4 @@
 ---
 title: Formulation Development
-permalink: /research/FormulationDevelopment/
+permalink: /industry/FormulationDevelopment/
 ---
