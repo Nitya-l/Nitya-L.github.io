@@ -1,21 +1,15 @@
-# Nitya Lagadapati
+# About Me
 
-M.S.E. Biomedical Engineering at Johns Hopkins University
-B.S. Bioengineering Data Science Concentration at University of Washington
-
----
-
-## Research Interests
-- Biomaterials
-- Regenerative Medicine
-- Translational Cell and Tissue Engineering 
-- Immunoengineering
-- Machine Learning and Artificial Intelligence 
+Hi! 👋 My name is Nitya Lagadapati and I am a biomedical engineer passionate about developing and translating biomedical technologies into real-world therapies. My interests and experiences lie at the intersection of biomaterials, regenerative medicine, process engineering, and data-driven approaches to wet-lab workflows.
 
 ---
+# 🧬 Research
 
-## Featured Projects
-- Hydrogel-Based Meniscus Models
-- Influenza Vaccine Platform
-- Organoid Electrophysiology
-  
+
+# 🧪 Biopharmaceutical Industry 
+
+
+# 💡 Projects 
+
+
+# Resume/CV
