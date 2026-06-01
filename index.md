@@ -167,7 +167,7 @@ display:flex;
 flex-direction:column;
 box-sizing:border-box;
 ">
-<img src="/assets/images/BlinkDetection.png"
+<img src="/assets/images/BlinkDetection.jpg"
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3 style="min-height:60px;margin-bottom:10px;">Blink Detection Algorithm</h3>
