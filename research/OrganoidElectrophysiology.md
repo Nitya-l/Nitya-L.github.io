@@ -22,14 +22,11 @@ My work in the Kathuria Lab focuses on analyzing electrophysiology recordings fr
  
 ## My Contributions
  
-**Electrophysiology data analysis**
-Analyzed large electrophysiology datasets generated from stem cell-derived organoid models of neurological pathologies by extracting parameters such as spike frequency, spikes per network burst, network burst duration, and interspike interval from neuronal recordings. By comparing these metrics across experimental conditions, I identified changes in neural firing patterns and network-level activity that provided insight into the effects of disease pathology and pharmacological interventions on neuronal function.
+**Electrophysiology data analysis**: Analyzed large electrophysiology datasets generated from stem cell-derived organoid models of neurological pathologies by extracting parameters such as spike frequency, spikes per network burst, network burst duration, and interspike interval from neuronal recordings. By comparing these metrics across experimental conditions, I identified changes in neural firing patterns and network-level activity that provided insight into the effects of disease pathology and pharmacological interventions on neuronal function.
 
-**Python automation pipeline**
-Built a Python pipeline to automate the extraction and organization of data from electrophysiology reports which reduced manual processing time and improved reproducibility across datasets. The time to extract data went from 3-6 hours, depending on the size of the study, to under 1 hour, no matter the size, which was an ~83% improvement in efficiency. 
+**Python automation pipeline**: Built a Python pipeline to automate the extraction and organization of data from electrophysiology reports which reduced manual processing time and improved reproducibility across datasets. The time to extract data went from 3-6 hours, depending on the size of the study, to under 1 hour, no matter the size, which was an ~83% improvement in efficiency. 
  
-**Scientific communication**
-Generated publication-quality methods schematics and data visualizations using Origin and BioRender to support manuscripts currently in preparation.
+**Scientific communication**: Generated publication-quality methods schematics and data visualizations using Origin and BioRender to support manuscripts currently in preparation.
 
 **Projects I have contributed to:**
 
