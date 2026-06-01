@@ -22,14 +22,11 @@ This project focused on developing a 3D-printed hydrogel microarray designed to 
  
 ## My Contributions
  
-**Device design**
-Used SolidWorks to design a microarray device with microwells of varying volumes and geometries, allowing systematic investigation of how well shape and size influence cellular adhesion and behavior. Printed and iterated on multiple design versions to optimize fabrication quality and well-to-well consistency. The designed array improved high-throughput screening capabilities by 30% compared to previous designs. 
+**Device design**: Used SolidWorks to design a microarray device with microwells of varying volumes and geometries, allowing systematic investigation of how well shape and size influence cellular adhesion and behavior. Printed and iterated on multiple design versions to optimize fabrication quality and well-to-well consistency. The designed array improved high-throughput screening capabilities by 30% compared to previous designs. 
  
-**Biomaterial integration**
-Worked with hydrogel-based biomaterials intended for loading into the microarray wells. Learned cell culture techniques in preparation for in vitro testing of different microarray configurations.
+**Biomaterial integration**: Worked with hydrogel-based biomaterials intended for loading into the microarray wells. Learned cell culture techniques in preparation for in vitro testing of different microarray configurations.
  
-**Experimental planning**
-Developed an experimental plan for validating different microarray designs through in vitro cell studies, establishing the groundwork for eventual in vivo implantation studies.
+**Experimental planning**: Developed an experimental plan for validating different microarray designs through in vitro cell studies, establishing the groundwork for eventual in vivo implantation studies.
  
 ---
 
