@@ -45,8 +45,7 @@ Generated publication-quality methods schematics and data visualizations using O
 - **Poster** · Microphysiological Systems World Summit, May 2026 (Olfactory)
 - **Poster** · Wilmer Eye Institute Research Symposium, April 2026 (DIPG) 
 ---
-## Figures & Images
- 
+## Figures 
 *Figures from this work are not shared here as multiple projects are in preparation for publication. Details will be added once the work is published.*
  
 ---
