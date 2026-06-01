@@ -1,4 +1,4 @@
-Hi! 👋 My name is Nitya Lagadapati and I am a biomedical engineer passionate about developing and translating biomedical technologies into real-world therapies. My interests and experiences lie at the intersection of biomaterials, regenerative medicine, process engineering, machine learning, and data-driven approaches to wet-lab workflows. 
+Hi! My name is Nitya Lagadapati and I am a biomedical engineer passionate about developing and translating biomedical technologies into real-world therapies. My interests and experiences lie at the intersection of biomaterials, regenerative medicine, process engineering, machine learning, and data-driven approaches to wet-lab workflows. 
 
 I love working across disciplines and with people who have different backgrounds than mine to develop innovative solutions. I am driven by curiosity and enjoy the challenge of applying engineering principles to advance biotechnology. The projects below reflect the research, industry, and technical experiences that have shaped how I think and work. 
 
