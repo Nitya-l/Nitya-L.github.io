@@ -251,7 +251,7 @@ style="width:100%;height:220px;object-fit:cover;">
 
 [Download Resume](/assets/pdfs/Nitya_Lagadapati_Resume.pdf)
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
+[LinkedIn](https://www.linkedin.com/in/nitya-lagadapati/)
 
 [GitHub](https://github.com/Nitya-l)
 
