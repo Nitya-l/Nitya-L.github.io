@@ -31,7 +31,7 @@ Built a Python pipeline to automate the extraction and organization of data from
 **Scientific communication**
 Generated publication-quality methods schematics and data visualizations using Origin and BioRender to support manuscripts currently in preparation.
 
- **Projects I have contributed to:**
+**Projects I have contributed to:**
 
 * **Olfactory Bulb Organoids:** Modeling olfactory epithelium development and evaluating its potential as a therapeutic delivery route that bypasses the blood-brain barrier.
 * **Multi-Region Brain Organoids:** Analyzing electrophysiological connectivity and network activity across fused brain regions.
