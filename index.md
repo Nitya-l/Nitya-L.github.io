@@ -88,7 +88,7 @@ box-sizing:border-box;
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3 style="min-height:60px;margin-bottom:10px;">3D-Printed Biomaterial Microarrays</h3>
-<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Undergraduate Research Assistant at Johns Hopkins University, Septemeber 2022-June 2023</h4>
+<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Undergraduate Research Assistant at Johns Hopkins University, September 2022-June 2023</h4>
 
 <p style="margin-top:auto;">Biomaterials • Biofabrication • Tissue Engineering</p>
 </div>
@@ -171,7 +171,7 @@ box-sizing:border-box;
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3 style="min-height:60px;margin-bottom:10px;">Blink Detection Algorithm</h3>
-<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;"> Graduate Research Assistant at Johns Hopkins University, Septemeber 2025-June 2026</h4>
+<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;"> Graduate Research Assistant at Johns Hopkins University, September 2025-June 2026</h4>
 
 <p style="margin-top:auto;">Computer Vision • Machine Learning Algorithms</p>
 
@@ -193,7 +193,7 @@ box-sizing:border-box;
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3 style="min-height:60px;margin-bottom:10px;">LLM Clinical Information Extraction</h3>
-<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Precision Care Medicine Course Project at Johns Hopkins University, Septemeber 2025-June 2026</h4>
+<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Precision Care Medicine Course Project at Johns Hopkins University, September 2025-June 2026</h4>
 
 <p style="margin-top:auto;">AI in Medicine • NLP • Prompt Engineering</p>
 
