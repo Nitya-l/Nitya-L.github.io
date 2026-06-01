@@ -21,11 +21,9 @@ Polymer-antigen conjugate platforms offer a way to address this by physically li
  
 ## My Contributions
  
-**Vaccine platform development**
-Contributing to the synthesis of polymer-antigen conjugates intended to improve antigen delivery to antigen-presenting cells and enhance the resulting immune response. Designing studies that evaluate the importance of antigen to polymer ratio in antigen delivery and immune response activation. 
+**Vaccine platform development**: Contributed to the synthesis of polymer-antigen conjugates intended to improve antigen delivery to antigen-presenting cells and enhance the resulting immune response. Designed studies that evaluate the importance of antigen to polymer ratio in antigen delivery and immune response activation. 
  
-**Purification and characterization**
-Using spin column chromatography, HPLC, and SDS-PAGE to purify conjugate products, assess conjugation efficiency, and ensure high-quality product. Establishing reproducible workflows for validating each synthesis step.
+**Purification and characterization**: Used spin column chromatography, HPLC, and SDS-PAGE to purify conjugate products, assess conjugation efficiency, and ensure high-quality product. Established reproducible workflows for validating each synthesis step.
  
 ---
  
