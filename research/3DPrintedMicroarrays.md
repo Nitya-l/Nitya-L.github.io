@@ -30,6 +30,6 @@ This project focused on developing a 3D-printed hydrogel microarray designed to 
  
 ---
 
-# My Takeaways
+## My Takeaways
 This was my first real research experience. I came in with only basic CAD experience and limited exposure to experimental design outside of classroom settings. However, I left with a much deeper understanding of iterative design, constraints-based thinking, and the level of rigor required in scientific decision-making. This experience built the foundation for my development as an engineer and a scientist.
 
