@@ -1,11 +1,11 @@
 ---
-default
+format: default
 title: Formulation Development
 permalink: /industry/FormulationDevelopment/
 ---
 # Investigating Factors Affecting Protein Stability and Viscosity
  
-**Formulation Development and Drug Product Intern** · Lundbeck Seattle Biopharmaceuticals, Bothell, WA <br>
+**Formulation Development and Drug Product Intern** · Lundbeck Seattle Biopharmaceuticals, Bothell, WA<br>
 **June 2023 – September 2023**
 
 ---
