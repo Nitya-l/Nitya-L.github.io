@@ -29,10 +29,13 @@ Specifically, we trained a conditional variational autoencoder on open-source lu
 ---
  
 ## Poster
- 
-![Synthesized Breath Sounds Capstone Poster](/assets/images/CapstonePoster.pdf)
- 
-*Presented at the University of Washington Department of Bioengineering Senior Capstone Showcase, June 2025.*
+
+<embed src="/assets/images/CapstonePoster.pdf"
+       type="application/pdf"
+       width="100%"
+       height="800px">
+
+<p><em>Presented at the University of Washington Department of Bioengineering Senior Capstone Showcase, June 2025.</em></p>
  
 ---
 
