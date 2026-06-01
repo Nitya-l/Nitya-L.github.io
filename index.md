@@ -36,7 +36,7 @@ border-radius:10px;
 text-align:center;
 height:100%;
 ">
-<img src="/assets/images/Vaccine.png"
+<img src="/assets/images/Vaccine.jpg"
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3>Influenza Vaccine Platform</h3>
@@ -54,7 +54,7 @@ border-radius:10px;
 text-align:center;
 height:100%;
 ">
-<img src="/assets/images/OrganoidElectrophysiology.png"
+<img src="/assets/images/Organoids.png"
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3>Organoid Electrophysiology Analysis</h3>
@@ -98,7 +98,7 @@ border-radius:10px;
 text-align:center;
 ">
 
-<img src="/assets/images/Ptx.png"
+<img src="/assets/images/Ptx.jpg"
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3>Development of an Aqueous Protein Purification Process</h3>
@@ -117,7 +117,7 @@ border-radius:10px;
 text-align:center;
 ">
 
-<img src="/assets/images/Lundbeck.png"
+<img src="/assets/images/Lundbeck.jpg"
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3>Investigating Factors Affecting Protein Stability and Viscosity</h3>
@@ -203,7 +203,7 @@ border-radius:10px;
 text-align:center;
 ">
 
-<img src="/assets/images/Model.png"
+<img src="/assets/images/Model.jpeg"
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3>Ultrasound Training Phantom</h3>
