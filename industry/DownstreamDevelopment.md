@@ -20,17 +20,13 @@ This project centered on exploring whether the organic solvent step in an existi
  
 ## My Contributions
  
-**High-throughput solvent screening**
-Performed high-throughput screening of aqueous purification conditions using anion-exchange based 96-well plate chromatography resins by systematically varying buffer composition and pH to identify conditions that could match or exceed the performance of the existing organic solvent step. In addition to testing the impact of pH and salt based elutions, I evaluated the efficacy of AEX resins from two-leading AEX chromatography resin manufacturing companies. 
+**High-throughput solvent screening**: Performed high-throughput screening of aqueous purification conditions using anion-exchange based 96-well plate chromatography resins by systematically varying buffer composition and pH to identify conditions that could match or exceed the performance of the existing organic solvent step. In addition to testing the impact of pH and salt based elutions, I evaluated the efficacy of AEX resins from two-leading AEX chromatography resin manufacturing companies. 
  
-**Scale-up studies**
-Narrowed down the most promising conditions from the plate-based screen and repeated experiments at larger scale to confirm performance and reproducibility.
+**Scale-up studies**: Narrowed down the most promising conditions from the plate-based screen and repeated experiments at larger scale to confirm performance and reproducibility.
  
-**Second-source resin qualification**
-Screened alternative commercial chromatography resins as potential second sources for the commercial process using semi-preparative and analytical HPLC experiments.
+**Second-source resin qualification**: Screened alternative commercial chromatography resins as potential second sources for the commercial process using semi-preparative and analytical HPLC experiments.
  
-**Communication**
-Gave a cumulative oral presentation to the Process Science group at the end of the internship summarizing the project rationale, methods, and findings. Also prepared a poster for an internal company innovation symposium.
+**Communication**: Gave a cumulative oral presentation to the Process Science group at the end of the internship summarizing the project rationale, methods, and findings. Also prepared a poster for an internal company innovation symposium.
  
 ---
  
