@@ -25,7 +25,7 @@ box-sizing:border-box;
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3 style="min-height:60px;margin-bottom:10px;">Viscoelastic Hydrogel Models of the Meniscus</h3>
-<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Undergraduate Research Assistant at the University of Washington, October 2023-July 2025</h4>
+<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Undergraduate Research Assistant at the University of Washington, <br> October 2023-July 2025</h4>
 
 <p style="margin-top:auto;">Biomaterials • Mechanobiology • Tissue Engineering</p>
 </div>
@@ -46,7 +46,7 @@ box-sizing:border-box;
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3 style="min-height:60px;margin-bottom:10px;">Influenza Vaccine Platform</h3>
-<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Graduate Research Assistant at Johns Hopkins University, March 2026-June 2026</h4>
+<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Graduate Research Assistant at Johns Hopkins University, <br> March 2026-June 2026</h4>
 
 <p style="margin-top:auto;">Immunoengineering • Immunomodulatory Biomaterials</p>
 </div>
@@ -67,7 +67,7 @@ box-sizing:border-box;
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3 style="min-height:60px;margin-bottom:10px;">Organoid Electrophysiology Analysis</h3>
-<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Graduate Research Assistant at Johns Hopkins University, December 2025-June 2026</h4>
+<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Graduate Research Assistant at Johns Hopkins University, <br> December 2025-June 2026</h4>
 
 <p style="margin-top:auto;">Electrophysiology • Neuroengineering • Data Science</p>
 </div>
@@ -88,7 +88,7 @@ box-sizing:border-box;
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3 style="min-height:60px;margin-bottom:10px;">3D-Printed Biomaterial Microarrays</h3>
-<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Undergraduate Research Assistant at Johns Hopkins University, September 2022-June 2023</h4>
+<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Undergraduate Research Assistant at Johns Hopkins University, <br> September 2022-June 2023</h4>
 
 <p style="margin-top:auto;">Biomaterials • Biofabrication • Tissue Engineering</p>
 </div>
@@ -118,7 +118,7 @@ box-sizing:border-box;
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3 style="min-height:60px;margin-bottom:10px;">Development of an Aqueous Protein Purification Process</h3>
-<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Downstream Process Development Intern at Partner Therapeutics, June 2024-September 2024</h4>
+<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Downstream Process Development Intern at Partner Therapeutics, <br> June 2024-September 2024</h4>
 
 <p style="margin-top:auto;">Chromatography • HPLC • Process Development</p>
 
@@ -140,7 +140,7 @@ box-sizing:border-box;
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3 style="min-height:60px;margin-bottom:10px;">Investigating Factors Affecting Protein Stability and Viscosity</h3>
-<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Formulation Development Intern at Lundbeck Seattle Biopharmaceuticals, June 2023-September 2023</h4>
+<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Formulation Development Intern at Lundbeck Seattle Biopharmaceuticals, <br> June 2023-September 2023</h4>
 
 <p style="margin-top:auto;">Drug Product Development • Formulation Science</p>
 
@@ -171,7 +171,7 @@ box-sizing:border-box;
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3 style="min-height:60px;margin-bottom:10px;">Blink Detection Algorithm</h3>
-<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;"> Graduate Research Assistant at Johns Hopkins University, September 2025-June 2026</h4>
+<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;"> Graduate Research Assistant at Johns Hopkins University, <br> September 2025-June 2026</h4>
 
 <p style="margin-top:auto;">Computer Vision • Machine Learning Algorithms</p>
 
@@ -193,7 +193,7 @@ box-sizing:border-box;
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3 style="min-height:60px;margin-bottom:10px;">LLM Clinical Information Extraction</h3>
-<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Precision Care Medicine Course Project at Johns Hopkins University, September 2025-June 2026</h4>
+<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Precision Care Medicine Course Project at Johns Hopkins University, <br> September 2025-June 2026</h4>
 
 <p style="margin-top:auto;">AI in Medicine • NLP • Prompt Engineering</p>
 
@@ -215,7 +215,7 @@ box-sizing:border-box;
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3 style="min-height:60px;margin-bottom:10px;">Synthesized Breath Sounds</h3>
-<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Bioengineering Senior Capstone at University of Washington, January 2025-June 2025</h4>
+<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Bioengineering Senior Capstone at University of Washington, <br> January 2025-June 2025</h4>
 
 
 <p style="margin-top:auto;">Machine Learning Algorithm Development • Clinical Education</p>
@@ -238,7 +238,7 @@ box-sizing:border-box;
 style="width:100%;height:220px;object-fit:cover;">
 
 <h3 style="min-height:60px;margin-bottom:10px;">Ultrasound Training Phantom</h3>
-<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Bioengineering Lab Course at University of Washington, October 2023-December 2023</h4>
+<h4 style="min-height:80px;font-weight:normal;margin-top:0;margin-bottom:15px;">Bioengineering Lab Course at University of Washington, <br> October 2023-December 2023</h4>
 
 <p style="margin-top:auto;">Medical Devices • Simulation</p>
 
