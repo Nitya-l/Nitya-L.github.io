@@ -30,7 +30,7 @@ Specifically, we trained a conditional variational autoencoder on open-source lu
  
 ## Poster
 
-<embed src="/assets/images/CapstonePoster.pdf"
+<embed src="/assets/images/CapstonePoster.png"
        type="application/pdf"
        width="100%"
        height="800px">
