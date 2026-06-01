@@ -20,18 +20,15 @@ This project investigated how a combination of formulation parameters affected t
  
 ## My Contributions
  
-**Experimental design and execution**
-Designed and executed a multi-variable study examining the effects of buffer pH, additive type and concentration, and temperature on product viscosity and protein-protein interactions. Used industry-standard instrumentation and adhered to general manufacturing practices throughout.
+**Experimental design and execution**: Designed and executed a multi-variable study examining the effects of buffer pH, additive type and concentration, and temperature on product viscosity and protein-protein interactions. Used industry-standard instrumentation and adhered to general manufacturing practices throughout.
  
-**Statistical analysis**
-Analyzed experimental data in JMP statistical software to assess the relative impact of each variable on formulation performance, identify interaction effects, and determine which conditions best supported product stability and injectability.
+**Statistical analysis**: Analyzed experimental data in JMP statistical software to assess the relative impact of each variable on formulation performance, identify interaction effects, and determine which conditions best supported product stability and injectability.
  
-**Communication**
-Delivered a 20-minute oral presentation to a broad scientific audience at a sitewide meeting, summarizing the project rationale, key findings, and actionable recommendations for formulation optimization.
+**Communication**: Delivered a 20-minute oral presentation to a broad scientific audience at a sitewide meeting, summarizing the project rationale, key findings, and actionable recommendations for formulation optimization.
  
 ---
  
-## Figures & Images
+## Figures
  
 *Data and figures from this project are proprietary to Lundbeck Seattle Biopharmaceuticals and cannot be shared publicly.*
  
