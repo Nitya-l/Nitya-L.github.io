@@ -16,7 +16,10 @@ border:1px solid #ddd;
 padding:15px;
 border-radius:10px;
 text-align:center;
-height:100%;
+height:520px;
+display:flex;
+flex-direction:column;
+box-sizing:border-box;
 ">
 <img src="/assets/images/Hydrogel.png"
 style="width:100%;height:220px;object-fit:cover;">
@@ -34,7 +37,10 @@ border:1px solid #ddd;
 padding:15px;
 border-radius:10px;
 text-align:center;
-height:100%;
+height:520px;
+display:flex;
+flex-direction:column;
+box-sizing:border-box;
 ">
 <img src="/assets/images/Vaccine.jpg"
 style="width:100%;height:220px;object-fit:cover;">
@@ -52,7 +58,10 @@ border:1px solid #ddd;
 padding:15px;
 border-radius:10px;
 text-align:center;
-height:100%;
+height:520px;
+display:flex;
+flex-direction:column;
+box-sizing:border-box;
 ">
 <img src="/assets/images/Organoids.png"
 style="width:100%;height:220px;object-fit:cover;">
@@ -70,7 +79,10 @@ border:1px solid #ddd;
 padding:15px;
 border-radius:10px;
 text-align:center;
-height:100%;
+height:520px;
+display:flex;
+flex-direction:column;
+box-sizing:border-box;
 ">
 <img src="/assets/images/Microarray.png"
 style="width:100%;height:220px;object-fit:cover;">
@@ -96,6 +108,10 @@ border:1px solid #ddd;
 padding:15px;
 border-radius:10px;
 text-align:center;
+height:520px;
+display:flex;
+flex-direction:column;
+box-sizing:border-box;
 ">
 
 <img src="/assets/images/Ptx.jpg"
@@ -115,8 +131,11 @@ border:1px solid #ddd;
 padding:15px;
 border-radius:10px;
 text-align:center;
+height:520px;
+display:flex;
+flex-direction:column;
+box-sizing:border-box;
 ">
-
 <img src="/assets/images/Lundbeck.jpg"
 style="width:100%;height:220px;object-fit:cover;">
 
@@ -143,8 +162,11 @@ border:1px solid #ddd;
 padding:15px;
 border-radius:10px;
 text-align:center;
+height:520px;
+display:flex;
+flex-direction:column;
+box-sizing:border-box;
 ">
-
 <img src="/assets/images/BlinkDetection.png"
 style="width:100%;height:220px;object-fit:cover;">
 
@@ -162,8 +184,11 @@ border:1px solid #ddd;
 padding:15px;
 border-radius:10px;
 text-align:center;
+height:520px;
+display:flex;
+flex-direction:column;
+box-sizing:border-box;
 ">
-
 <img src="/assets/images/Axolotl.png"
 style="width:100%;height:220px;object-fit:cover;">
 
@@ -181,8 +206,11 @@ border:1px solid #ddd;
 padding:15px;
 border-radius:10px;
 text-align:center;
+height:520px;
+display:flex;
+flex-direction:column;
+box-sizing:border-box;
 ">
-
 <img src="/assets/images/CVAE.png"
 style="width:100%;height:220px;object-fit:cover;">
 
@@ -201,8 +229,11 @@ border:1px solid #ddd;
 padding:15px;
 border-radius:10px;
 text-align:center;
+height:520px;
+display:flex;
+flex-direction:column;
+box-sizing:border-box;
 ">
-
 <img src="/assets/images/Model.jpeg"
 style="width:100%;height:220px;object-fit:cover;">
 
