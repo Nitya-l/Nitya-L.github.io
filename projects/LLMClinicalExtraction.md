@@ -5,7 +5,7 @@ permalink: /projects/LLMClinicalExtraction/
 ---
 # LLM-Assisted Annotation and Biomarker Feature Extraction for NSCLC Immunotherapy Resistance
  
-**Team Lead & First Author** · Precision Care Medicine Course Project, Johns Hopkins University <br>
+**Team Lead & Co-First Author** · Precision Care Medicine Course Project, Johns Hopkins University <br>
 **Collaborators:** Sean Li, Eric Guan, Weiyao Tao, Marcus Torres-Negron, Isha Yeleswarapu <br>
 **Faculty Advisors:** Dr. Joseph Greenstein, Dr. Casey Overby Taylor, Dr. Siamak Ardekani <br>
 **Clinical Collaborator:** Dr. Joseph Murray (Sidney Kimmel Comprehensive Cancer Center / Caris Life Sciences) <br>
