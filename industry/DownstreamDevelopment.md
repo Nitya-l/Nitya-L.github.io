@@ -35,5 +35,5 @@ This project centered on exploring whether the organic solvent step in an existi
 *Data and figures from this project are proprietary to Partner Therapeutics and cannot be shared publicly.*
  
 ---
-## Takeaways
+## My Takeaways
 This internship reshaped how I think about biomaterials in the context of pharmaceutical development. I was exposed to the practical and safety driven constraints of large-scale biomanufacturing with respect to the risks associated with organic solvents and process conditions. Coming from an academia background, I was not used to considering how choices in the early stages of the pipeline impact not only product stability but also the safety of the individuals involved in manufacturing. This experience reinforced my perspective that biomedical innovation must account for the entire developmental pipeline and pushed me to think about my contributions need to consider both clinical and operational efficacy. 
