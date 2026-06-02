@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Presentations & Publications
+permalink: /credentials/Publications/
 ---
  
 # Presentations & Publications
