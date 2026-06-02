@@ -1,11 +1,5 @@
 theme: jekyll-theme-minimal
 title: Nitya Lagadapati
-description: Biomaterials | Regenerative Medicine | Machine Learning and Artificial Intelligence 
-<p>
-  <a href="https://www.linkedin.com/in/nitya-lagadapati/">LinkedIn</a><br>
-  <a href="/assets/pdfs/Nitya_Lagadapati_Resume.pdf">Resume</a><br>
-  <a href="/assets/pdfs/Nitya_Lagadapati_CV.pdf">CV</a><br>
-  <a href="https://github.com/Nitya-l">GitHub</a>
-</p>
+description: Biomaterials | Regenerative Medicine | Machine Learning and Artificial Intelligence
 logo: /assets/images/Profile.jpeg
 markdown: kramdown
