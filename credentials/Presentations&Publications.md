@@ -71,5 +71,5 @@ Lagadapati, N.
  
 - **Partner Therapeutics Internal Innovation Symposium** - October 2024 <br>
   Company-wide poster session; presented downstream purification findings to cross-functional colleagues.
----
+
  
