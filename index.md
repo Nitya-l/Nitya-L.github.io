@@ -28,7 +28,7 @@ style="width:100%;height:160px;object-fit:cover;">
 <h3>Skills & Expertise</h3>
 
 <p style="margin-top:auto;">
-Laboratory Techniques • Biomaterials • Data Science • Machine Learning • Process Development
+Laboratory Techniques • Engineering Techniques • Programming Languages
 </p>
 
 </div>
@@ -52,7 +52,7 @@ style="width:100%;height:160px;object-fit:cover;">
 <h3>Publications & Presentations</h3>
 
 <p style="margin-top:auto;">
-Posters • Abstracts • Talks • Manuscripts
+Posters • Talks • Manuscripts
 </p>
 
 </div>
