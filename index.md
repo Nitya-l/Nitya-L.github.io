@@ -3,6 +3,61 @@ Hi! My name is Nitya Lagadapati and I am a biomedical engineer passionate about 
 I love working across disciplines and with people who have different backgrounds than mine to develop innovative solutions. I am driven by curiosity and enjoy the challenge of applying engineering principles to advance biotechnology. The projects below reflect the research, industry, and technical experiences that have shaped how I think and work. 
 
 ---
+<h1 style="margin-top:80px;margin-bottom:30px;">📄 Credentials</h1>
+
+<div style="
+display:grid;
+grid-template-columns:repeat(2,1fr);
+gap:25px;
+">
+<a href="/credentials/Skills/" style="text-decoration:none;color:inherit;">
+<div style="
+border:1px solid #ddd;
+padding:15px;
+border-radius:10px;
+text-align:center;
+height:320px;
+display:flex;
+flex-direction:column;
+box-sizing:border-box;
+">
+
+<img src="/assets/images/Skills.jpg"
+style="width:100%;height:160px;object-fit:cover;">
+
+<h3>Skills & Expertise</h3>
+
+<p style="margin-top:auto;">
+Laboratory Techniques • Biomaterials • Data Science • Machine Learning • Process Development
+</p>
+
+</div>
+</a>
+
+<a href="/credentials/Publications/" style="text-decoration:none;color:inherit;">
+<div style="
+border:1px solid #ddd;
+padding:15px;
+border-radius:10px;
+text-align:center;
+height:320px;
+display:flex;
+flex-direction:column;
+box-sizing:border-box;
+">
+
+<img src="/assets/images/Publications.jpg"
+style="width:100%;height:160px;object-fit:cover;">
+
+<h3>Publications & Presentations</h3>
+
+<p style="margin-top:auto;">
+Posters • Abstracts • Talks • Manuscripts
+</p>
+
+</div>
+</a>
+
 <h1 style="margin-top:50px;margin-bottom:30px;">🧬 Research</h1>
 <div style="
 display:grid;
@@ -246,12 +301,4 @@ style="width:100%;height:220px;object-fit:cover;">
 </a>
 
 </div>
-
-<h1 style="margin-top:80px;margin-bottom:30px;">📄 Resume / CV</h1>
-
-[Download Resume](/assets/pdfs/Nitya_Lagadapati_Resume.pdf)
-
-[LinkedIn](https://www.linkedin.com/in/nitya-lagadapati/)
-
-[GitHub](https://github.com/Nitya-l)
 
