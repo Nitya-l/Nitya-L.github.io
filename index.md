@@ -46,7 +46,7 @@ flex-direction:column;
 box-sizing:border-box;
 ">
 
-<img src="/assets/images/Publications.jpg"
+<img src="/assets/images/Presentation.jpeg"
 style="width:100%;height:160px;object-fit:cover;">
 
 <h3>Publications & Presentations</h3>
