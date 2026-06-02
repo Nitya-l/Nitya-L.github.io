@@ -57,6 +57,7 @@ Posters • Abstracts • Talks • Manuscripts
 
 </div>
 </a>
+</div>
 
 <h1 style="margin-top:50px;margin-bottom:30px;">🧬 Research</h1>
 <div style="
