@@ -27,16 +27,13 @@ Specifically, we trained a conditional variational autoencoder on open-source lu
 **User testing implementation**: Contributed to implementing the quantitative user study — a 10-question Google Forms quiz where participants matched generated spectrograms to original patient profiles. Results showed 35.4% average accuracy (vs. 30% chance), confirming the model had not yet learned to generate condition-distinguishable sounds.
  
 ---
- 
+
 ## Poster
 
-<embed src="/assets/images/CapstonePoster.png"
-       type="application/pdf"
-       width="100%"
-       height="800px">
+![Capstone Poster](/assets/images/CapstonePoster.png)
 
-<p><em>Presented at the University of Washington Department of Bioengineering Senior Capstone Showcase, June 2025.</em></p>
- 
+*Presented at the University of Washington Department of Bioengineering Senior Capstone Showcase, June 2025.*
+
 ---
 
 ## My Takeaways 
