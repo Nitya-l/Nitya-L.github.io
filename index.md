@@ -22,7 +22,7 @@ flex-direction:column;
 box-sizing:border-box;
 ">
 
-<img src="/assets/images/Skills.jpg"
+<img src="/assets/images/Skills.png"
 style="width:100%;height:160px;object-fit:cover;">
 
 <h3>Skills & Expertise</h3>
