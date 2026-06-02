@@ -34,7 +34,7 @@ Laboratory Techniques • Biomaterials • Data Science • Machine Learning •
 </div>
 </a>
 
-<a href="/credentials/Publications/" style="text-decoration:none;color:inherit;">
+<a href="/credentials/Presentations&Publications/" style="text-decoration:none;color:inherit;">
 <div style="
 border:1px solid #ddd;
 padding:15px;
