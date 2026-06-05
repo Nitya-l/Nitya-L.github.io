@@ -46,4 +46,4 @@ Additionally, mechanical cues at the tissue level influence cell behavior and re
  
 ---
 ## My Takeaways 
-This was my primary undergraduate research experience and the project that first got me hooked on biomaterials and the idea that you can engineer a material to "speak" to a cell for regenerative medicine applications. Beyond developing technical skills in biomaterials, mechanics, and data analysis, this experience challenged me to think like a scientist, taught me how to troubleshoot through failures, and helped me learn how to communicate complex science to those without science backgrounds.
+This was my primary undergraduate research experience and the project that first got me interested in biomaterials and the idea that you can engineer a material to "speak" to a cell for regenerative medicine applications. Beyond developing technical skills in biomaterials, mechanics, and data analysis, this experience challenged me to think like a scientist, taught me how to troubleshoot through failures, and helped me learn how to communicate complex science to those without science backgrounds.
