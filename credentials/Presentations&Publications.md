@@ -12,14 +12,14 @@ permalink: /credentials/Presentations&Publications/
  
 **"LLM-Assisted Annotation and Biomarker Feature Extraction for NSCLC Immunotherapy Resistance"**
 Lagadapati, N., Li, S., Guan, E., Tao, W., Torres-Negron, M., Yelaswarapu, I., Greenstein, J., Overby Taylor, C., Ardekani, S., & Murray, J. <br>
-*Journal of Thoracic Oncology Clinical and Research Reports* - Preparing for Submission with a goal of Fall 2026 <br>
+*Journal of Thoracic Oncology Clinical and Research Reports* - Preparing for submission with a goal of Fall 2026 <br>
 Co-First author on a semster-long course project turned into a manuscript
 
 **"Olfactory Organoid Project- Kathuria Lab"**
-Preparing for Submission with a goal of Summer 2026
+Preparing for submission with a goal of Summer 2026
 
 **"Multi-Region Brain Organoid Project- Kathuria Lab"**
-Preparing for Submission with a goal of Summer 2026
+Preparing for submission with a goal of Summer 2026
  
 ---
  
@@ -27,7 +27,7 @@ Preparing for Submission with a goal of Summer 2026
 ### Oral Presentations
 **"Tuning Viscoelasticity in a Hyaluronic Acid-Based Hydrogel System to Investigate Meniscal Cell Mechanotransduction"**
 Lagadapati, N., Burkey, K., & Robinson, J. <br>
-Rapid-fire oral presentation summarizing the viscoelastic hydorgel project for a broad range of biomaterial-based researchers.
+Rapid-fire oral presentation summarizing the viscoelastic hydrogel project for a broad range of biomaterial-based researchers.
  
 **"Development of an Aqueous Alternative to the C4 Capture Step"**
 Lagadapati, N.
