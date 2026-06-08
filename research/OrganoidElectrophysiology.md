@@ -41,11 +41,10 @@ My work in the Kathuria Lab focuses on analyzing electrophysiology recordings fr
 ## Presentations
 - **Poster** · Microphysiological Systems World Summit, May 2026 (Olfactory)
 - **Poster** · Wilmer Eye Institute Research Symposium, April 2026 (DIPG) 
----
+
 ## Figures 
 *Figures from this work are not shared here as multiple projects are in preparation for publication. Details will be added once the work is published.*
- 
----
+
 ## My Takeaways 
 One of the main reasons I joined the Kathuria Lab was my interest in New Approach Methodologies (NAMs), which are being explored as potential alternatives to animal testing. Many biopharmaceutical companies are investing in these platforms to model diseases and evaluate therapeutic efficacy in human-relevant in vitro systems. As someone who intends to pursue this field, it is important for me to stay up to date on the development of these emerging technologies and approaches as well as how they are being characterized, and working in the Kathuria Lab allowed me to do just that.
 
