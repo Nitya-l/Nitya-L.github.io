@@ -37,7 +37,7 @@ My work in the Kathuria Lab focuses on analyzing electrophysiology recordings fr
 * **Diffuse Intrinsic Pontine Glioma (DIPG) Organoids:** Recapitulating tumor behavior in organoid models and conducting preliminary screens of potential therapeutic candidates.
 * **Nutritional Intervention Study:** Investigating how bioactive compounds found in traditional medicinal plants, such as turmeric and ashwagandha, influence specifc brain region development, function, and electrophysiological activity.
 * **Glioblastoma Organoids:** Evaluating disease progression and therapeutic responses in patient-derived glioblastoma organoid models.
----
+  
 ## Presentations
 - **Poster** · Microphysiological Systems World Summit, May 2026 (Olfactory)
 - **Poster** · Wilmer Eye Institute Research Symposium, April 2026 (DIPG) 
