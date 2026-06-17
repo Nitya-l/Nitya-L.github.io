@@ -51,8 +51,14 @@ Lagadapati, N., Singh, V., Joshi, K., Pantula, A., & Kathuria, A.
 **"Brainstem Organoid Co-Culture Platform for Functional Drug Screening in Diffuse Midline Gliomas with H3 K27M Mutations and Diffuse Intrinsic Pontine Gliomas"** <br>
 Lagadapati, N., Joshi, K., Pantula, A., Dasagupta, B., & Kathuria, A.
  
-- **Wilmer Eye Institute Symposium** - May 2026 <br>
-  Johns Hopkins University internal conference; Academia researchers across the Wilmer Eye Institute at Johns Hopkins University. 
+- **Wilmer Eye Institute Symposium** - April 2026 <br>
+  Johns Hopkins University internal conference; Academia researchers across the Wilmer Eye Institute at Johns Hopkins University.
+  
+**"LLM-Assisted Annotation and Biomarker Feature Extraction for NSCLC Immunotherapy Resistance"**
+Lagadapati, N., Li, S., Guan, E., Tao, W., Torres-Negron, M., Yelaswarapu, I., Greenstein, J., Overby Taylor, C., Ardekani, S., & Murray, J. <br>
+  - **Johns Hopkins University Design Day Symposium** - April 2026 <br>
+  Johns Hopkins University internal engineering symposium; Students and researchers across the Whiting School of Engineering at Johns Hopkins University.
+
 
 **"Tuning Viscoelasticity in a Hyaluronic Acid-Based Hydrogel System to Investigate Meniscal Cell Mechanotransduction"**
 Lagadapati, N., Burkey, K., & Robinson, J.
